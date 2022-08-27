@@ -1,2 +1,8 @@
-#!/bin/bash
+alx-pre_course
+git merge update_script
+!/bin/bash
+<<<<<<< HEAD
 ALX School is so cool
+=======
+ALX School
+>>>>>>> update_script
